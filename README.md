@@ -54,7 +54,3 @@ These insights can be used for **targeted marketing strategies**.
 - Matplotlib  
 - Seaborn  
 - Scikit-learn  
-
----
-
-## 📂 Repository Structure
